@@ -108,10 +108,10 @@ Notes: no comments
         <HelpCustomized>false</HelpCustomized>
       </OEMInformation>
       <!-- Rename computer here. -->
-      <ComputerName>vagrant-w10-2aa3b7</ComputerName>
+      <ComputerName>*</ComputerName>
       <ProductKey>W269N-WFGWX-YVC9B-4J6C9-T83GX</ProductKey>
       <TimeZone>GMT Standard Time</TimeZone>
-      <RegisteredOwner/>
+      <RegisteredOwner>vagrant</RegisteredOwner>
     </component>
   </settings>
   <settings pass="oobeSystem">
